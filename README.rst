@@ -1,4 +1,4 @@
-Twig, the flexible, fast, and secure template language for PHP
+Twig, the flexible, fast, and secure template language for PHP. (PublishPress prefixed version)
 ==============================================================
 
 Twig is a template language for PHP, released under the new BSD license (code
